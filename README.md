@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Sou um profissional com sólida experiência em suporte técnico, sempre movido por uma paixão inerente pela tecnologia. Nos últimos anos, descobri um interesse profundo por programação, o que me levou a me dedicar ao estudo dessa área. Agora, estou em uma jornada para me tornar um desenvolvedor de excelência, sempre buscando aprimorar minhas habilidades e contribuir de forma significativa para o mundo da tecnologia.</h1>
+<h1 align="center">Sou um profissional com sólida experiência em suporte técnico, sempre movido por uma paixão inerente pela tecnologia. Nos últimos anos, descobri um interesse profundo por programação, o que me levou a me dedicar ao estudo dessa área. Agora, estou em uma jornada para me tornar um desenvolvedor de excelência, sempre buscando aprimorar minhas habilidades para criar grandes projetos e deixar minha marca neles.</h1>
 
 ###
 
